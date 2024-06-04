@@ -29,3 +29,14 @@ Custom made trading products by **[wealthfoundrytech](https://github.com/wealthf
 
 <h1>Contact</h1>
 <a href="mailto:wealthfoundry@outlook.com">wealthfoundry@outlook.com</a>
+
+#Algo
+#Trading
+#Algorithmic Trading
+#NIFTY
+#BANKNIFTY
+#MIDCPNIFTY
+#FINNIFTY
+#SENSEX
+#BANKEX
+#Automated Trading
