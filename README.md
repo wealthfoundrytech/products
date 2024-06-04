@@ -30,6 +30,7 @@ Custom made trading products by **[wealthfoundrytech](https://github.com/wealthf
 <h1>Contact</h1>
 <a href="mailto:wealthfoundry@outlook.com">wealthfoundry@outlook.com</a>
 
+## Keywords
 #Algo
 #Trading
 #Algorithmic Trading
@@ -40,3 +41,4 @@ Custom made trading products by **[wealthfoundrytech](https://github.com/wealthf
 #SENSEX
 #BANKEX
 #Automated Trading
+#Paper Trading
